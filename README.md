@@ -60,4 +60,4 @@ To get started with Swift Tickets, follow these steps:
 This project is licensed under the MIT License. See the .[LICENSE]{{https://github.com/Ohimoiza1205/Swift-Tickets/LICENSE} file for details.
 
 **Contact**
-For any questions or feedback, please contact .[me]{https://github.com/Ohimoiza1205/} or open an .[issue]{{https://github.com/Ohimoiza1205/Swift-Tickets/issues} on GitHub.
+For any questions or feedback, please contact [me](https://github.com/Ohimoiza1205/) or open an [issue](https://github.com/Ohimoiza1205/Swift-Tickets/issues) on GitHub.
