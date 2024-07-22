@@ -57,7 +57,7 @@ To get started with Swift Tickets, follow these steps:
 - Submit a Pull Request: Push your changes and submit a pull request with a detailed description of your modifications.
 
 **License**
-This project is licensed under the MIT License. See the .[LICENSE](https://github.com/Ohimoiza1205/Swift-Tickets/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ohimoiza1205/Swift-Tickets/LICENSE) file for details.
 
 **Contact**
 For any questions or feedback, please contact [me](https://github.com/Ohimoiza1205/) or open an [issue](https://github.com/Ohimoiza1205/Swift-Tickets/issues) on GitHub.
