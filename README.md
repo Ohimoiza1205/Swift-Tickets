@@ -31,8 +31,10 @@ To get started with Swift Tickets, follow these steps:
 2. **Open the Project in Xcode**
 
 - Navigate to the project directory and open the .xcodeproj file.
-cd Swift-Tickets
-open Swift-Tickets.xcodeproj
+
+   ```bash
+   cd Swift-Tickets
+   open Swift-Tickets.xcodeproj
 
 3. **Build and Run**
 
